@@ -5,11 +5,13 @@ AutoTest
 
 測試架構  
 -----------------------------------  
-![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png "github")
-### 小标题  
-  小标题类似html的\<h3\><br />  
-  小标题的格式如下 ### 小标题<br />  
-  注意#和标题字符中间要有空格  
+![image](https://github.com/hongtuly/AutoTest/blob/master/images/2020-05-29_090126.png "github")
+
+### 點擊打開百度
+   [點擊打開百度]<br>
+[![image]](http://www.github.com/)  
+[image]: http://github.com/github.png "github" 
+
 ### 注意!!!下面所有语法的提示我都先用小标题提醒了!!!   
 ### 单行文本框  
     这是一个单行的文本框,只要两个Tab再输入文字即可  
