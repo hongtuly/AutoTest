@@ -7,8 +7,8 @@ AutoTest
 -----------------------------------  
 ![image](https://github.com/hongtuly/AutoTest/blob/master/images/2020-05-29_090126.png "github")
 
-### 點擊打開百度
-   [點擊打開百度]<br>
+### 點擊打開Google
+   [點擊打开Google](https://www.google.cn/)<br>
    ![image](https://github.com/hongtuly/AutoTest/blob/master/images/c72a8b80a4d8030d8143f37eb3188d20.gif)
    
    
