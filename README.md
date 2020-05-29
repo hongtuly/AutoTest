@@ -9,6 +9,9 @@ AutoTest
 
 ### 點擊打開百度
    [點擊打開百度]<br>
+   ![image](https://github.com/hongtuly/AutoTest/blob/master/images/c72a8b80a4d8030d8143f37eb3188d20.gif)
+   
+   
 [![image]](http://www.github.com/)  
 [image]: http://github.com/github.png "github" 
 
