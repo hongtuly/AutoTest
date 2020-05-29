@@ -12,10 +12,10 @@ AutoTest
    ![image](https://github.com/hongtuly/AutoTest/blob/master/images/c72a8b80a4d8030d8143f37eb3188d20.gif)
    
    
-[![image]](http://www.github.com/)  
-[image]: http://github.com/github.png "github" 
+### 点击下面图片打开Google
+[![](https://github.com/hongtuly/AutoTest/blob/master/images/2020-05-29_223519.png)](https://www.google.cn/)
 
-### 注意!!!下面所有语法的提示我都先用小标题提醒了!!!   
+
 ### 单行文本框  
     这是一个单行的文本框,只要两个Tab再输入文字即可  
 ### 多行文本框    
@@ -31,14 +31,7 @@ AutoTest
    System.out.println("HelloWorld!");  
    }  
     }  
-### 链接  
-1.[点击这里你可以链接到www.google.com](http://www.google.com)<br />  
-2.[点击这里我你可以链接到我的博客](http://guoyunsky.iteye.com)<br />  
-###只是显示图片  
-![github](http://github.com/unicorn.png "github")  
-###想点击某个图片进入一个网页,比如我想点击github的icorn然后再进入www.github.com  
-[![image]](http://www.github.com/)  
-[image]: http://github.com/github.png "github"  
+
 ### 文字被些字符包围  
 > 文字被些字符包围  
 >  
